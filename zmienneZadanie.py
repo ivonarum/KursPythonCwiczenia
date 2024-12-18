@@ -27,7 +27,7 @@ print(str[0] * 3 + str[4])
 
 tekst = """cos tutaj napisane
 i reszta \"tekstu\"
-w kolejnym wierszu..."""
+w kolejnym wierszu... coś\\"""
 print(tekst)
 
 # \n nowa linia
